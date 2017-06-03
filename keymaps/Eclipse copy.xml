@@ -1,0 +1,8 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+</keymap>
