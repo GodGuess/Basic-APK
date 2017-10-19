@@ -63,4 +63,17 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://192.168.3.121/svn/test002/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://192.168.3.121/svn/test002/" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
 </application>
