@@ -66,11 +66,13 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://192.168.3.121/svn/test003" />
         <option value="https://192.168.3.121/svn/test002/" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://192.168.3.121/svn/test003" />
         <option value="https://192.168.3.121/svn/test002/" />
       </list>
     </option>
